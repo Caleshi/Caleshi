@@ -7,6 +7,7 @@
 ### Articles
 
 ![The battle of informational efficiency: Cryptocurrencies vs. classical assets](https://www.sciencedirect.com/science/article/abs/pii/S0378437125000792?via%3Dihub)
+
 ![Análise de fronteira não paramétricas em dados em painéis para a identificação de benchmarking estratégicos na gestão da segurança pública em Pernambuco](https://proceedings.sbmac.org.br/sbmac/article/view/4465)
 
 ### Languages
